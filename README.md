@@ -1,5 +1,6 @@
 # NLP_Twitter_Project
 Twitter sentiment analysis -  NLP, logistic regression and deep learning. Data preprocessing and Exploration
+
 **The project aims to develop a sentiment analysis model using Deep Learning techniques to process Twitter data. The model will classify tweets into positive, negative, or neutral sentiments, enabling the analysis of public opinions and sentiments on various topics discussed on the Twitter platform**
 
 
